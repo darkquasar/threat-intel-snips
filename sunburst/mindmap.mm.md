@@ -155,3 +155,8 @@
 	- https://twitter.com/_cpresearch_/status/1339952318717063168
 
 - https://unit42.paloaltonetworks.com/solarstorm-supply-chain-attack-timeline/
+
+### Further IOCS
+
+- [FireEye Domain IOCs](https://github.com/fireeye/sunburst_countermeasures/blob/5ef085b175b8f7c70b1956fd310b05855a9098f6/indicator_release/Indicator_Release_NBIs.csv)
+- [Talos Cisco Security Domain IOCs](https://blog.talosintelligence.com/2020/12/solarwinds-supplychain-coverage.html)
